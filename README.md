@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 Sobre mim
-- 🔹 Desenvolvedor Full Stack com foco em **backend, APIs, automação e infraestrutura em nuvem**  
-- 🔹 Experiência com **Node.js, PostgreSQL, React.js, AWS e arquitetura escalável**  
-- 🔹 Apaixonado por tecnologia e inovação, sempre buscando aprimoramento contínuo  
+- 🔹 Desenvolvedor Full Stack com foco em **backend, APIs, automação e infraestrutura em nuvem**
+- 🔹 Experiência com **Conteinerização, Node.js (Nest, Jest), PostgreSQL, Redis, React.js, Antd, AWS e Openshift e arquitetura escalável com Kubernetes**  
+- 🔹 Apaixonado por tecnologia e inovação, sempre buscando aprimoramento contínuo
 
 ---
 
