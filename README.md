@@ -1,4 +1,4 @@
-<h1 align="center">👋 Eae, eu sou o Matheus Gonçalves!</h1>
+<h1 align="center"> Olá seguimores!</h1>
 
 <p align="center">
   💻 <strong>Desenvolvedor Full Stack | TypeScript | Go | DevOps | SQL | NO-SQL</strong>💻
@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### Muito eu:
 - 🔹 Desenvolvedor Full Stack com foco em **backend, APIs, automação e infraestrutura em nuvem**
 - 🔹 Experiência com **Js, Ts, Python e Go, front e back-end, bancos sql e no-sql, plataformas em nuvem e devops!**  
 - 🔹 Apaixonado por tecnologia e inovação, sempre buscando aprimoramento contínuo
